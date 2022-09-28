@@ -1,0 +1,5 @@
+vendor/
+keys.php
+*.lock
+*.log
+*.sqlite*

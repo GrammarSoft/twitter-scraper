@@ -1,0 +1,7 @@
+{
+	"require": {
+		"tdc/pdo": "^1.2.0",
+		"j7mbo/twitter-api-php": "dev-master",
+		"spatie/twitter-streaming-api": "^1.2"
+	}
+}
